@@ -1,4 +1,4 @@
-This folder contains precomputed CRC32 values (using the reversed polynomial) for some Windows 32 bits DLLs.  
+This folder contains precomputed CRC32 values (using the reversed polynomial) for some Windows 32 bits DLLs function names (**taking into account the nullbyte!**).  
   
 For quick lookups you can either grep this directory or use the executable "crc32" which takes the string as argument.  
   
